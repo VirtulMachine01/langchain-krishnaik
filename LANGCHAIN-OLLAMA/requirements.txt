@@ -21,3 +21,4 @@ arxiv
 langchainhub
 sentence-transformers
 langchain-objectbox
+pinecone
