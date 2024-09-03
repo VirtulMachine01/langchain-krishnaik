@@ -8,6 +8,8 @@ uvicorn
 sse_starlette
 bs4
 pypdf
+PyPDF2
+langchain_google_genai
 chroma
 faiss-cpu
 groq
