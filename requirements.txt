@@ -22,3 +22,5 @@ langchainhub
 sentence-transformers
 langchain-objectbox
 pinecone
+neo4j
+langchain_experimental
