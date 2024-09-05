@@ -24,3 +24,5 @@ langchain-objectbox
 pinecone
 neo4j
 langchain_experimental
+langgraph
+langsmith
